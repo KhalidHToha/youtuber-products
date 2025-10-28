@@ -96,6 +96,7 @@ If you spot any bugs or issues, feel free to open an issue in the repository.
 # Contact
 
 Your Name: Khalid H. Toha
+
 GitHub: github.com/KhalidHToha
 
 Email: (khalidhtoha@gmail.com)
